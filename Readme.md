@@ -1,8 +1,7 @@
 # Личный проект «Седона» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [vara jara](https://up.htmlacademy.ru/adaptive/7/user/203475).
-* Наставник: `Неизвестно`.
-
+* Наставник: [Сергей Кравченко](https://htmlacademy.ru/profile/id13921).
 ---
 
 _Не удаляйте и не обращайте внимание на файлы:_<br>
